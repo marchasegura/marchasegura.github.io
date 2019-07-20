@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+# Cómo protestar de forma legal y segura 
+En los Estados Unidos cada ciudadano tiene el derecho a la libre expresión. Si deseas ejercer ese derecho en las protestas pidiendo la renuncia de Ricky Rosello, es importante entender qué esperar antes de ir. Aun si estás seguro de que el evento será completamente pacífico, existe la posibilidad de que algún otro grupo de protesta o hasta la policía tengan distintas expectativas. Aquí te proveemos algunos consejos para que te prepares bien antes de salir a ejercer tu derecho de libre expresión.
 
-You can use the [editor on GitHub](https://github.com/marchasegura/marchasegura.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Antes de seguir adelante, es importante tener en cuenta que estos consejos te ayudarán a mantenerte cómodo y preparado en caso de que suceda algo malo. No son un reemplazo para seguir las instrucciones de la policía, usar el sentido común y abandonar el área si así lo ordenan las autoridades, o si las cosas se ponen peligrosas. Ya que la historia nos ha demostrado que incluso las protestas más pacíficas pueden volverse peligrosas y que las personas de cualquier lado pueden sufrir lesiones, es importante estar preparado para cualquier cosa que pueda ocurrir antes de que salga de la casa.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Conoce tus derechos
+Lo más importante que puedes hacer antes de salir de casa es investigar. Si planeas ir a una marcha o protesta, es importante saber qué derechos tienes y no tienes. Por ejemplo, muchas personas interpretan incorrectamente el derecho a congregarse provisto por la primera enmienda para permitirles reunirse en cualquier lugar que deseen, pero en realidad esto solo evita que el gobierno y otros agentes del estado prohíban la asamblea pacífica en lugares públicos. Desafortunadamente, es muy fácil pasar inadvertidamente de un lugar público a uno privado, asumir que la propiedad privada es pública, o cruzar los perímetros establecidos y terminar en problemas con la policía.
+Edúquese bien y averigüe si la organización que organiza la protesta tiene un historial de protestas no violentas y averigüe si planean reunirse en un espacio público y seguro. Aseguremos de tratar con las autoridades en la escena de manera profesional y sin confrontaciones. Muchas organizaciones ofrecerán consejos en su sitio web o repartirán folletos en la protesta que describen lo que se debe esperar.
 
-### Markdown
+Finalmente, aunque pueda estar dentro de sus derechos, tenga en cuenta que argumentar que tiene derecho a pararse en un lado de la calle cuando media docena de policías quiere que se mude al otro lado es probablemente una mala idea. A menos que su objetivo sea ser arrestado, elija sus palabras y sus batallas con cuidado. Es posible que sea mejor que primero cumpla con las instrucciones de la policía y luego defienda sus derechos. No eres útil para tu causa si estás herido o algo peor y no puedes continuar protestando.
+Cómo vestirse para una protesta
+- Las protestas se organizan por muchas razones distintas, ya sea para evitar guerra o pedir la ayuda externa, hasta temas aparentemente inofensivos como las artes y la música en las escuelas. Antes de ir a una protesta, piense en el tipo de evento que será, si habrá una contra-protesta, y si habrá una gran presencia policial. Use zapatos cómodos. Estará de pie durante mucho tiempo, a veces durante largas horas y puede que tenga que marchar. Use zapatos con los que se sienta cómodo de pie, caminando o corriendo.
+- Usar ropa que cubra bien su piel ya que le ayudará a reducir su exposición al sol, el viento y al gas o spray de pimienta si las cosas se salen de las manos. 
+- Use gafas o anteojos resistentes a los golpes si piensa estar al frente. Si planeas estar en las primeras líneas frente a una contra-protesta o la policía, necesitaras algo para proteger tus ojos en caso de que las cosas se pongan feas, preferiblemente algo sellado alrededor de los ojos para que no te caiga gas o spray pimienta o cualquier otro fluido en tus ojos.
+- Use una mochila con zipper. No guardes tus pertenencias personales en la billetera o en un bolso de fácil acceso. Cualquier gran multitud de personas es perfecta para los pillos, incluso en las protestas. Conserva tus pertenencias en una mochila con zipper en tu espalda.
+- Use una segunda mochila en su estómago. Rellena esta segunda mochila con toallas o un segundo conjunto de ropa en una bolsa de plástico sellada. Esto le servirá de protección para su pecho y abdomen si la policía lo golpea con un bastón (esto le da la oportunidad de cumplir y retroceder sin sufrir dolor) y le brinda otro lugar para guardar los artículos a los que desea acceder rápidamente, como tu tarjeta de identificación, o alguna otra cosa que deba presentar a la policía cuando se le solicite.
+Con suerte, no necesitarás nada de esto, pero el punto es que estarás contento de tenerlos si las cosas se deterioran rápidamente. Además, cuando se coloque artículos como gafas o una máscara antigás, tenga en cuenta que está caminando en una cuerda floja entre estar preparado para lo que puede suceder y que otros te vean como que esperas problemas. Puedes convertirte en un objetivo para la policía o provocar la ira de otros manifestantes que solo quieren reunirse pacíficamente sin ningún problema. Tenga esto en cuenta al empacar.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Cómo empacar para una protesta
+Además de una identificación y cualquier permiso que debas llevar es importante empacar adecuadamente para una protesta. A menos que seas periodista o fotógrafo, deja el equipo delicado y frágil en casa. Empaca solo lo mínimo absoluto que necesitas para establecer tu identidad, comprar alimentos o hacer una llamada telefónica si es necesario, y cuidarse o cuidar a tus amigos en cualquier situación. 
 
-```markdown
-Syntax highlighted code block
+Esto es lo que debe ir en tu mochila.
+-	Botiquín de primeros auxilios. Las vendas, el ungüento antibacteriano, una venda de nylon y algunos elementos básicos para el cuidado de las heridas harán maravillas. Incluso si las cosas se mantienen tranquilas, una venda será útil en caso de que te tuerzas el tobillo, y unas cuantas curitas serán útiles si alguien se cae o se corta. Tu botiquín de primeros auxilios también debe contener algunos analgésicos básicos, como la aspirina o el ibuprofeno.
+-	Un inhalador, “epipen”, o cualquier otro medicamento esencial que no pueda prescindir, y accesorios de higiene personal. Todo esto es preventivo. Si planea estar en la marcha por un largo tiempo, puede que los necesite, pero si termina teniendo problemas con la policía o si se encuentra en un área aislada lejos de los demás, querrá asegurarse de tener elementos básicos como un inhalador o “epipen” contigo en caso de que lo necesite. Lo mismo se aplica a los productos de higiene. Es posible que no te permitan irte antes de que los necesites, y es más fácil que la policía te busque un inhalador en tu mochila que ayudarte a salir porque estas teniendo problemas para respirar.
+-	Un recipiente con una mezcla de mitad agua y mitad Maalox o cualquier antiácido que tenga hidróxido de aluminio, he hidróxido de magnesio. Si la manifestación termina con gas lacrimógeno, esta solución te puede proporcionar algo de alivio. La mayoría de los gases lacrimógenos no son en realidad "gas", sino un producto químico suspendido en humo fino, por lo que no es necesario que aparezca en una máscara de gas completa, pero si puede obtener una parecida a las que usan para pintar (las de papel no), puede ser útil tenerla en tu mochila. 
+-	No use lentes de contactos ya que estos pueden retener las partículas de los gases lacrimógenos y una vez entren en contacto con los gases no pueden ser limpiados.
+-	Toallitas de bebé y gotas para los ojos. Perfecto para la limpieza general, y para limpiar su piel o su ropa si está expuesto a gas, gas pimienta o cualquier otro liquido lanzado por los manifestantes. Sin embargo, tenga cuidado, las cremas hidratantes a base de aceite y las soluciones de limpieza pueden hacer que los químicos del gas lacrimógeno o el spray de pimienta se adhieran a su piel. Asegúrese de obtener toallitas a base de agua o desechables, o haga las suyas con toallas de papel y una solución de bicarbonato de sodio y agua. Mantenga las toallitas y las gotas para los ojos en recipientes sellados.
+-	Lápiz, papel y un marcador. En caso de que necesite documentar algo como nombres, organizaciones en la protesta, números de identificación, etc.
 
-# Header 1
-## Header 2
-### Header 3
+Si vas a estar mucho tiempo, empaca algunas meriendas y agua. Asegúrate de alimentarte y tomar suficiente agua antes de irte a la marcha. Aparte de esto, mantenga lo menos posible encima de usted. Si estás detenido o tienes que dejar tus artículos atrás, no debes llevar nada contigo que puedas perder.
+Al final, la meta es protestar de manera pacífica, protegerte de manera defensiva y estar listo para lo que pueda ocurrir, ya se si las cosas se ponen mal.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marchasegura/marchasegura.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Sea inteligente, sepa cuándo quedarse y sepa cuándo irse
+A menudo, las personas a favor y en contra de las mismas causas, de alguna legislación, de diferentes partidos políticos o incluso en eventos masivos se reúnen en el mismo lugar para ser escuchados, y a menudo se producen roces. Por lo general, son algunas personas enojadas que simplemente no pueden resistirse a burlarse del lado opositor o a incitar a la policía, pero tan pronto como se desata una provocación, la policía se apresura a saltar y a dispersar a la multitud por completo, hace arrestos, o al menos se separa a la gente. He visto que esto sucede en todo tipo de reuniones, desde protestas de guerra hasta celebraciones en la calle.
+ 
+Lo importante que debe saber si va a disfrutar de su derecho a reunirse, participar en una desobediencia civil o simplemente hacer oír su voz, es ser inteligente, prepararse adecuadamente y cuando llegue el momento de irse u obedecer las instrucciones de la policía, que usted así lo haga. Si las cosas se salen de control, salga del camino y aléjese de las líneas del frente lo más rápido posible. Si puede, vaya a un lugar seguro donde pueda recuperarse, cambiarse de ropa o use cualquiera de los suministros que empacó si lo necesita. No te enfrentes a la policía, no te enfades con ellos, y no comiences un altercado con los manifestantes opuestos, solo crearás problemas para todos.
+ 
+Al final, su objetivo debe ser protestar pacíficamente, protegerse a sí mismo a la defensiva y estar preparado para lo que pueda pasar, incluso si las cosas van mal. Esperemos que ese no sea el caso, pero si lo es, tendrá lo que necesita para mantenerse a salvo, ileso y poder permanecer el mayor tiempo posible para que su mensaje sea escuchado.
