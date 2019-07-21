@@ -1,3 +1,7 @@
+---
+layout: post
+title: Como protestar de forma legal y segura
+---
 # Cómo protestar de forma legal y segura 
 En los Estados Unidos cada ciudadano tiene el derecho a la libre expresión. Si deseas ejercer ese derecho en las protestas pidiendo la renuncia de Ricky Rosello, es importante entender qué esperar antes de ir. Aun si estás seguro de que el evento será completamente pacífico, existe la posibilidad de que algún otro grupo de protesta o hasta la policía tengan distintas expectativas. Aquí te proveemos algunos consejos para que te prepares bien antes de salir a ejercer tu derecho de libre expresión.
 
